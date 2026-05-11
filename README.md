@@ -40,10 +40,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Replace 'YOUR_GITHUB_USERNAME' in the links below with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sourovnaskar&show_icons=true&theme=radical" alt="Sourov's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sourovnaskar&show_icons=true&theme=radical" alt="Sourov's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourovnaskar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sourovnaskar&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
